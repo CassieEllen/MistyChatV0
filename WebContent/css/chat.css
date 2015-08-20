@@ -1,0 +1,57 @@
+
+body {
+    background-color: #d0e4fe;
+}
+
+.header {
+    background-color: blue;
+
+}
+
+.footer {
+    background-color: pink;
+
+}
+
+/* Comment */
+p {
+    color:black;
+    /*text-align:center;*/
+}
+
+div.SignIn {
+	float:left;
+	border-style:solid;
+	border-width:1px;
+}
+
+div.SignUp {
+	float:none;
+	width: 50%
+}
+
+div.Box {
+	border-style:solid;
+	border-width:1px;
+}
+
+div.Break {
+	clear:left;
+}
+
+span.Name {
+	width: 50%;
+}
+
+input.Name {
+	width: 48%;
+}
+
+input.Address {
+	width: 98%;
+}
+
+input.Password {
+	width: 98%;
+}
+
